@@ -1,2 +1,2 @@
-# -redirect-to-x
-Redirect to my X profile 
+# Redirect to X
+My X profile: https://x.com/lamngockhuong
